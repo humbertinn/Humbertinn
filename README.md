@@ -1,12 +1,6 @@
-## Olá,sou o Humberto 👋
-
-- 🔭 Estou trabalhando no momento com front-end.
-- 🌱 Estou aprendendo logica de programação,iniciando no JavaScript.
-- 🤔 Desejo me tornar programador e ficar nessa área,especialmente desenvolvimento de jogos.
-- 📫 Contato: humbertotheodoro6@gmail.com (email pessoal); 0001152659@senaimgaluno.com.br (email de uso github,javascript,etc).
-- 😄 Pronomes: Ele/Dele.
-- ⚡ Curiosidade: Faço curso de informatica no senai.
-
+   Olá,sou o Humberto.
+  
+   Contato: humbertotheodoro6@gmail.com (email) e (32) 9999-7700 (whatsapp)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
